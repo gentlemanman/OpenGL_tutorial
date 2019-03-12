@@ -1,0 +1,12 @@
+﻿  materials.cpp
+e:\opengl\tutorial\光照\03_materials\03_materials\shader_m.h(53): warning C4101: “infoLog”: 未引用的局部变量
+e:\opengl\tutorial\光照\03_materials\03_materials\shader_m.h(52): warning C4101: “success”: 未引用的局部变量
+e:\opengl\tutorial\光照\03_materials\03_materials\materials.cpp(157): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\光照\03_materials\03_materials\materials.cpp(265): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\光照\03_materials\03_materials\materials.cpp(266): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\光照\03_materials\03_materials\materials.cpp(270): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\光照\03_materials\03_materials\materials.cpp(271): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\光照\03_materials\03_materials\materials.cpp(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\光照\03_materials\03_materials\materials.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\光照\03_materials\03_materials\materials.cpp(283): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  03_Materials.vcxproj -> E:\OpenGL\Tutorial\光照\03_Materials\Debug\03_Materials.exe

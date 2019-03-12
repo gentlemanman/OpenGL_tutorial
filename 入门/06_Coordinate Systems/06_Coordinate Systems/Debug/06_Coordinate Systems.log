@@ -1,0 +1,13 @@
+﻿  coordinate.cpp
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\shader_m.h(53): warning C4101: “infoLog”: 未引用的局部变量
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\shader_m.h(52): warning C4101: “success”: 未引用的局部变量
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\coordinate.cpp(207): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\coordinate.cpp(279): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\coordinate.cpp(303): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\coordinate.cpp(304): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\coordinate.cpp(308): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\coordinate.cpp(309): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\coordinate.cpp(310): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\coordinate.cpp(311): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\入门\06_coordinate systems\06_coordinate systems\coordinate.cpp(313): warning C4305: “初始化”: 从“double”到“float”截断
+  06_Coordinate Systems.vcxproj -> E:\OpenGL\Tutorial\入门\06_Coordinate Systems\Debug\06_Coordinate Systems.exe

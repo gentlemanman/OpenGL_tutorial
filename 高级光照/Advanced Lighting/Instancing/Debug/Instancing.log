@@ -1,0 +1,14 @@
+﻿  advanced_lighting.cpp
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\shader.h(62): warning C4101: “infoLog”: 未引用的局部变量
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\shader.h(61): warning C4101: “success”: 未引用的局部变量
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\advanced_lighting.cpp(29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\advanced_lighting.cpp(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\advanced_lighting.cpp(130): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\advanced_lighting.cpp(214): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\advanced_lighting.cpp(215): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\advanced_lighting.cpp(219): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\advanced_lighting.cpp(220): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\advanced_lighting.cpp(222): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\advanced_lighting.cpp(223): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\advanced lighting\instancing\advanced_lighting.cpp(232): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Instancing.vcxproj -> E:\OpenGL\Tutorial\高级光照\Advanced Lighting\Debug\Instancing.exe

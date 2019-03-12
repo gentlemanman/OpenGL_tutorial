@@ -1,0 +1,32 @@
+﻿  asteroids_instanced.cpp
+e:\opengl\tutorial\高级opengl\instancing\instancing\shader.h(62): warning C4101: “infoLog”: 未引用的局部变量
+e:\opengl\tutorial\高级opengl\instancing\instancing\shader.h(61): warning C4101: “success”: 未引用的局部变量
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(86): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(102): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(106): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(145): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(229): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(230): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(234): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(235): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(237): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(238): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\instancing\instancing\asteroids_instanced.cpp(247): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  glad.c
+glfw3.lib(context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(context.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(init.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(init.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(input.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(monitor.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(monitor.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(vulkan.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(vulkan.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(window.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_init.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_init.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_joystick.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_joystick.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_monitor.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_monitor.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_time.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_time.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_tls.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_tls.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_window.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_window.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(wgl_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(wgl_context.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(egl_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(egl_context.obj)”或在“E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Instancing.vcxproj -> E:\OpenGL\Tutorial\高级OpenGL\Instancing\Debug\Instancing.exe

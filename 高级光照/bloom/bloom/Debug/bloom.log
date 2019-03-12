@@ -1,0 +1,29 @@
+﻿  bloom.cpp
+e:\opengl\tutorial\高级光照\bloom\bloom\shader.h(62): warning C4101: “infoLog”: 未引用的局部变量
+e:\opengl\tutorial\高级光照\bloom\bloom\shader.h(61): warning C4101: “success”: 未引用的局部变量
+e:\opengl\tutorial\高级光照\bloom\bloom\bloom.cpp(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\bloom\bloom\bloom.cpp(31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\bloom\bloom\bloom.cpp(177): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\bloom\bloom\bloom.cpp(472): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\bloom\bloom\bloom.cpp(473): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\bloom\bloom\bloom.cpp(477): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\bloom\bloom\bloom.cpp(478): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\bloom\bloom\bloom.cpp(480): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\bloom\bloom\bloom.cpp(481): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级光照\bloom\bloom\bloom.cpp(490): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  glad.c
+glfw3.lib(context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(context.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(init.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(init.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(input.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(monitor.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(monitor.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(vulkan.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(vulkan.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(window.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_init.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_init.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_joystick.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_joystick.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_monitor.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_monitor.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_time.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_time.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_tls.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_tls.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_window.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_window.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(wgl_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(wgl_context.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(egl_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(egl_context.obj)”或在“E:\OpenGL\Tutorial\高级光照\bloom\Debug\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  bloom.vcxproj -> E:\OpenGL\Tutorial\高级光照\bloom\Debug\bloom.exe

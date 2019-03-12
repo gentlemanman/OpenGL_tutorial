@@ -1,0 +1,3 @@
+﻿  triangle.cpp
+e:\opengl\tutorial\入门\02_hello triangle\02_hello triangle\triangle.cpp(95): warning C4101: “testVBO”: 未引用的局部变量
+  02_Hello Triangle.vcxproj -> E:\OpenGL\Tutorial\入门\02_Hello Triangle\Debug\02_Hello Triangle.exe

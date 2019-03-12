@@ -1,0 +1,14 @@
+﻿  anti_aliasing_offscreen.cpp
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\shader.h(62): warning C4101: “infoLog”: 未引用的局部变量
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\shader.h(61): warning C4101: “success”: 未引用的局部变量
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\anti_aliasing_offscreen.cpp(25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\anti_aliasing_offscreen.cpp(26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\anti_aliasing_offscreen.cpp(210): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\anti_aliasing_offscreen.cpp(299): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\anti_aliasing_offscreen.cpp(300): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\anti_aliasing_offscreen.cpp(304): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\anti_aliasing_offscreen.cpp(305): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\anti_aliasing_offscreen.cpp(307): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\anti_aliasing_offscreen.cpp(308): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\tutorial\高级opengl\anti aliasing\instancing\anti_aliasing_offscreen.cpp(317): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Instancing.vcxproj -> E:\OpenGL\Tutorial\高级OpenGL\Anti Aliasing\Debug\Instancing.exe
